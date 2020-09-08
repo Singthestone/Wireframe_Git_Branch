@@ -1,17 +1,33 @@
 /* *********************************** */
+
+
 /* *** ESTILOS GENERALES *** */
+
+
 /* *********************************** */
 
+
 /* Tipografía */
+
 @font-face {
     font-family: "";
-    src: url("") format("woof2"),
-         url("") format("woof");
+    src: url("") format("woof2"), url("") format("woof");
 }
 
+html {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
 /* ******************************** */
+
 
 /* Colores */
 
-/* ******************************** */
 
+/* ******************************** */
