@@ -10,7 +10,7 @@
 /* Tipografía */
 
 @font-face {
-    font-family: "";
+    font-family: "Roboto";
     src: url("") format("woof2"), url("") format("woof");
 }
 
@@ -22,12 +22,3 @@ a {
     text-decoration: none;
     color: black;
 }
-
-
-/* ******************************** */
-
-
-/* Colores */
-
-
-/* ******************************** */
